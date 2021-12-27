@@ -1,8 +1,10 @@
+disk
+httpx
+psutil
+pyromod
+requests
 pyrogram
 tgcrypto
-pyromod
-httpx
-speedtest-cli
-psutil
-disk
 gitpython
+python-dotenv
+speedtest-cli
